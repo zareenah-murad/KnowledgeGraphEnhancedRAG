@@ -1,0 +1,253 @@
+Entity1,Relation,Entity2
+dangerassociated,associated_with,adaptive immunity
+pathogen,associated_with,adaptive immunity
+complement system,modifies,energy expenditure
+complement system,modifies,lipid metabolism
+complement system,modifies,glucose homeostasis
+complement system,affects,atherosclerosis
+complement system,affects,obesity
+complement system,affects,metabolic syndrome
+complement system,affects,agerelated macular degeneration
+complement system,affects,metabolic dysfunctionassociated steatotic liver disease
+osteoporosis,diagnosed_by,dual xray absorptiometry
+osteoporosis,diagnosed_by,osteoporosis risk prediction tool
+oculomics,linked_to_disease,osteoporosis
+oculomics,associated_with_process,personalized medicine
+aav gene therapy,used_for,wet agerelated macular degeneration
+wet agerelated macular degeneration,treated_by,aav gene therapy
+vision loss,linked_to_disease,agerelated macular degeneration
+diabetic macular edema,causes,vision loss
+antivascular endothelial growth factor antivegf therapy,used_for,diabetic macular edema
+diabetic macular edema,treated_by,antivascular endothelial growth factor antivegf therapy
+predicting the antivegf outcomes,linked_to_disease,diabetic macular edema
+storage stability,associated_with_process,solution binding affinity
+fcfusion mimetic receptorpegreceptor rpr,used_for,agemacular degeneration
+therapeutic aflibercept,used_for,agemacular degeneration
+agemacular degeneration,treated_by,therapeutic aflibercept
+agemacular degeneration,treated_by,fcfusion mimetic receptorpegreceptor rpr
+aflibercept,treats,agemacular degeneration
+intravitreal faricimab injection,used_for,bilateral occlusive retinal vasculitis
+bilateral occlusive retinal vasculitis,affects,retina
+air pollution,linked_to_disease,glaucoma
+air pollution,linked_to_disease,agerelated macular degeneration amd
+air pollution,linked_to_disease,cataracts
+complement,affects,agerelated macular degeneration
+lipid pathway,affects,agerelated macular degeneration
+dexamethasone intravitreal implant,used_for,diabetic macular oedema
+diabetic macular oedema,treated_by,dexamethasone intravitreal implant
+diabetic macular oedema dmo,treated_by,dexamethasone implant
+electrophysiological profile,linked_to_disease,diabetic macular oedema dmo
+agerelated macular degeneration,causes,vision loss
+genomewide association study,linked_to_disease,agerelated macular degeneration
+genomewide association study,linked_to_disease,vision loss
+retina,part_of,retinal pigment epithelium rpe
+retina,part_of,retinal pigment epithelium rpe
+aging related changes,linked_to_disease,agerelated macular degeneration amd
+central bruchs membrane bm defect,induces,myopic maculopathy mmp
+central bruchs membrane bm defect,induces,macular atrophy
+subretinal proliferation,induces,macular atrophy
+subretinal proliferation,induces,myopic maculopathy mmp
+visual acuity reduction,associated_with_process,fundus tessellation
+nonglaucomatous optic neuropathy,associated_with,longer axial length
+diabetic retinopathy,associated_with,axial length
+agerelated macular degeneration,associated_with,axial length
+angleclosure glaucoma,associated_with,axial length
+openangle glaucoma,associated_with,high myopia
+geographic atrophy,affects,choroid
+imaging analysis,linked_to_disease,geographic atrophy
+histopathological correlation,linked_to_disease,geographic atrophy
+outer choroidal vessels,affects,geographic atrophy ga
+intravitreal injection ivi,used_for,neovascular agerelated macular degeneration namd
+brolucizumab,used_for,neovascular agerelated macular degeneration namd
+neovascular agerelated macular degeneration namd,treated_by,intravitreal injection ivi
+neovascular agerelated macular degeneration namd,treated_by,brolucizumab
+retinal pathologies,causes,vision impairment
+retinal pathologies,causes,blindness
+retinal pathologies,causes,inherited retinal diseases irds
+retinal pathologies,causes,retinitis pigmentosa
+retinal pathologies,causes,leber congenital amaurosis
+retinal pathologies,causes,stargardt disease
+neovascular agerelated macular degeneration namd,treated_by,faricimab
+neovascular agerelated macular degeneration namd,treated_by,aflibercept
+peripheral retinal abnormalities,linked_to_disease,agerelated macular degeneration
+vegfa,linked_to,agerelated macular degeneration
+mta,linked_to,agerelated macular degeneration
+ccl,linked_to,agerelated macular degeneration
+serpinf,linked_to,agerelated macular degeneration
+disease progression of retinitis pigmentosa,associated_with_process,pregnancy
+effects of pregnancy,linked_to_disease,rp progression
+age,linked_to_disease,agerelated macular degeneration amd
+age,linked_to_disease,cataract
+agerelated macular degeneration,treated_by,cataract surgery
+vascularendothelialgrowthfactor vegf inhibitor therapy,used_for,amd
+vision early detection,linked_to_disease,agerelated macular degeneration amd
+vision early detection,linked_to_disease,cataract
+vision early detection,linked_to_disease,diabetic retinopathy dr
+vision early detection,linked_to_disease,glaucoma
+rising hyperreflective foci hrf,linked_to,agerelated macular degeneration amd
+hrf formation,linked_to_disease,retinal degeneration
+atypical retinal vascularization,related_to,down syndrome
+retinal thickening,related_to,down syndrome
+neuronal development,affects,ds diagnosis
+retinal anomalies,linked_to_disease,retinal disease
+immune system,affects,ocular immunerelated diseases
+dysfunctioned immune responses,related_to,uveitis
+dysfunctioned immune responses,related_to,diabetic retinopathy
+dysfunctioned immune responses,related_to,agerelated macular degeneration
+dysfunctioned immune responses,related_to,graves ophthalmopathy
+stargardt disease stgd,causes,childhood blindness
+abca,mutated_in,stargardt disease stgd
+abcaa,linked_to,stargardt disease stgd
+abcab,linked_to,stargardt disease stgd
+cone dysfunction,linked_to_disease,agerelated macular degeneration
+eys,linked_to,retinitis pigmentosa
+eyes shut homolog gene,linked_to,hereditary retinal degeneration
+agerelated macular degeneration amd,causes,blindness
+agerelated macular degeneration amd,causes,vision loss
+complement factor h,linked_to,vision loss
+elamipretide,related_to,agerelated macular degeneration
+elamipretide,used_for,dry agerelated macular degeneration amd
+noncentral geographic atrophy ga,treated_by,elamipretide
+elamipretide,used_for,noncentral geographic atrophy ga
+dry agerelated macular degeneration amd,treated_by,elamipretide
+neovascular agerelated macular degeneration namd,treated_by,observeandplan op regimen
+agerelated macular degeneration amd,causes,vision loss
+agerelated macular degeneration amd,affects,retina
+agerelated retinal changes,caused_by,endogenous dna damage
+separation between the bruchs membrane,related_to,macular atrophy
+retinal pigment epithelium,related_to,macular atrophy
+retinal detachment,causes,proliferative vitreoretinopathy pvr
+runxtrap,linked_to,wet agerelated macular degeneration
+agerelated macular degeneration,affects,neuroretina
+retinitis pigmentosa,affects,neuroretina
+macular telangiectasia type mactel,affects,neuroretina
+arms rs,linked_to,dryage related macular degeneration
+complement inhibitors,used_for,geographic atrophy
+micronutrient supplementation,used_for,neovascular agerelated macular degeneration
+agerelated macular degeneration,affects,cornea
+agerelated macular degeneration,affects,sclera
+drug delivery to the eye,used_for,agerelated macular degeneration
+drug delivery to the eye,used_for,glaucoma
+neovascular agerelated macular degeneration namd,causes,vision impairment
+reactive oxygen species ros,related_to,agerelated macular degeneration
+reactive oxygen species ros,related_to,diabetic retinopathy
+reactive oxygen species ros,related_to,cataracts
+reactive oxygen species ros,related_to,glaucoma
+oxidative stress,linked_to_disease,ocular diseases
+agerelated macular degeneration amd,causes,central vision loss
+agerelated macular degeneration amd,causes,dysregulated autophagy of the retinal pigment epithelium rpe layer
+oxidation,linked_to_disease,geographic atrophy
+oxidation,linked_to_disease,agerelated macular degeneration
+oxidative stress in the retinal pigmented epithelium rpe,causes,agerelated macular degeneration
+oxidative stress,linked_to_disease,agerelated macular degeneration
+diabetic retinopathy dr,linked_to,depression
+glaucoma,linked_to,depression
+glaucoma,linked_to,anxiety
+glaucoma,linked_to,schizophrenia
+agerelated macular degeneration amd,linked_to,depression
+agerelated macular degeneration amd,causes,blindness
+neovascular agerelated macular degeneration amd,affects,retina
+vascular endothelial growth factor vegf inhibition,linked_to_disease,neovascular agerelated macular degeneration namd
+vascular endothelial growth factor vegf inhibition,linked_to_disease,diabetic retinopathy dr
+antivegf treatment,used_for,neovascular agerelated macular degeneration namd
+antivegf treatment,used_for,diabetic retinopathy dr
+antivegf treatment,used_for,diabetic macular edema dme
+neovascular agerelated macular degeneration namd,treated_by,antivegf treatment
+diabetic retinopathy dr,treated_by,antivegf treatment
+diabetic macular edema dme,treated_by,antivegf treatment
+antivegf treatment,used_for,neovascular macular degeneration namd
+antivegf treatment,used_for,macular ma atrophy
+adult onset foveomacular vitelliform dystrophy,linked_to,agerelated macular degeneration
+agerelated macular degeneration amd,causes,irreversible blindness
+complement factor i cfi gene,linked_to,agerelated macular degeneration amd
+oct,related_to,agerelated macular degeneration
+intermediate amd,associated_with,drusen
+retinal morphology,related_to,intermediate amd
+reflectivity,related_to,intermediate amd
+inflammatory factors,related_to,agerelated macular degeneration amd
+inflammatory factors,related_to,diabetic retinopathy dr
+oxidative damage,associated_with_process,apoptosis
+agerelated macular degeneration amd,linked_to,geographic atrophy
+intravitreal ivt injection,used_for,macular degeneration
+macular degeneration,affects,ocular tissues
+inorganic elements,related_to,macular degeneration
+formic acid,related_to,macular degeneration
+polyethylene glycols,related_to,macular degeneration
+acetic acid,related_to,macular degeneration
+caprolactam,related_to,macular degeneration
+oxidative stress,linked_to_disease,agerelated macular degeneration amd
+zeaxanthin,modifies,oxidative stress
+age related macular degeneration amd,associated_with,retinal layer thicknesses
+agerelated macular degeneration amd,associated_with,retinal layer thicknesses
+cystoid macular edema,linked_to,retinitis pigmentosa
+photoreceptor assessment,linked_to_disease,agerelated macular degeneration
+optical coherence tomography oct,linked_to_disease,agerelated macular degeneration
+geographic atrophy ga,affects,etinal pigment epithelial rpe
+gene therapy,used_for,geographic atrophy
+gene therapy,used_for,agerelated macular degeneration
+geographic atrophy,treated_by,gene therapy
+agerelated macular degeneration,treated_by,gene therapy
+nonneovascular dry agerelated macular degeneration,affects,outer retina
+complement system,affects,ga lesion development
+syfovre pegcetacoplan injection,treats,ga lesion development
+izervay avacincaptad pegol intravitreal solution,treats,ga lesion development
+carbonic anhydrase inhibitors cai,treats,paclitaxel ptxinduced macular edema
+choroidal macrophages,related_to,agerelated macular degeneration
+macular degeneration,causes,central vision is lost
+macular degeneration,affects,retina
+agerelated macular degeneration amd,causes,vision loss
+aging populations,affects,vision loss
+agerelated macular degeneration amd,affects,retina
+agerelated macular degeneration amd,affects,retinal pigment epithelium rpe
+drusen accumulation,associated_with_process,retinal health
+electric activity,associated_with,human tissue
+visual function vf,linked_to_disease,agerelated macular degeneration amd
+agerelated macular degeneration amd,causes,visual impairment
+agerelated macular degeneration amd,causes,central vision loss
+soluble endoglin seng,related_to,agerelated macular degeneration amd
+psck,related_to,agerelated macular degeneration amd
+alphamacroglobulin am,related_to,agerelated macular degeneration amd
+hscrp,related_to,agerelated macular degeneration amd
+total cholesterol,related_to,agerelated macular degeneration amd
+ldlc,related_to,agerelated macular degeneration amd
+hdlc,related_to,agerelated macular degeneration amd
+apoprotein b,related_to,agerelated macular degeneration amd
+lipoprotein a,related_to,agerelated macular degeneration amd
+topical steroids,treats,pigmentary glaucoma
+nonsteroidal antiinflammatory drug nsaid,treats,pigmentary glaucoma
+vitrectomy,used_for,pigmentary glaucoma
+agerelated macular degeneration,causes,blindness
+photoreceptors,related_to,agerelated macular degeneration
+dental pulp stem cells dpscs,related_to,agerelated macular degeneration
+regenerative medicine,used_for,blindness
+regenerative medicine,used_for,agerelated macular degeneration
+antivascular endothelial growth factor vegf treatments,used_for,diabetic macular edema
+diabetic macular edema,treated_by,antivascular endothelial growth factor vegf treatments
+antivascular endothelial growth factor vegf treatments,used_for,neovascular agerelated macular degeneration namd
+neovascular agerelated macular degeneration namd,treated_by,antivascular endothelial growth factor vegf treatments
+brolucizumab,treats,etinal pathologies
+angiogenesis inhibitor,used_for,neovascular agerelated macular degeneration namd
+angiogenesis inhibitor,used_for,diabetic macular edema dme
+brolucizumab,treats,neovascular agerelated macular degeneration namd
+brolucizumab,treats,diabetic macular edema dme
+polypeptide retinal neuroprotective therapy,used_for,diabetic retinopathy
+diabetic retinopathy,treated_by,polypeptide retinal neuroprotective therapy
+neuroretinal degeneration,linked_to_disease,diabetic retinopathy dr
+agerelated macular degeneration amd,causes,low vision
+agerelated macular degeneration amd,causes,blindness
+intravitreal faricimab,treats,neovascular agerelated macular degeneration
+tenaya and lucerene trials,linked_to_disease,neovascular agerelated macular degeneration namd
+antivegf therapy,used_for,neovascular agerelated macular degeneration namd
+neovascular agerelated macular degeneration namd,treated_by,antivegf therapy
+agerelated macular degeneration,linked_to,diabetic retinopathy
+diabetic retinopathy,linked_to,retinopathy of prematurity
+agerelated macular degeneration,linked_to,retinopathy of prematurity
+agerelated macular degeneration amd,associated_with,drusenoid pigment epithelial detachments
+hospital eye services,affects,neovascular agerelated macular degeneration namd
+plasma kallikrein inhibitors,treats,angioedema
+plasma kallikrein inhibitors,treats,uveitis
+plasma kallikrein inhibitors,treats,posterior uveitis
+plasma kallikrein inhibitors,treats,wet agerelated macular degeneration
+plasma kallikrein inhibitors,treats,diabetic macular edema
+plasma kallikrein inhibitors,treats,diabetic retinopathy
+plasma kallikrein inhibitors,treats,retinal vein occlusion
